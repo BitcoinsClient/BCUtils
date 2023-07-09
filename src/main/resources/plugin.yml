@@ -1,0 +1,5 @@
+name: BCUtils
+version: '${version}'
+main: de.bitcoinclient.bcutils.BCUtils
+api-version: '1.19'
+load: STARTUP
